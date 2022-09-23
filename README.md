@@ -7,4 +7,5 @@ My intention of this project is to showcase my Excel skills and little bit of st
 3] Analyze and forecast financial business metrics using Excel.
 4] Create visualizations and a financial forecast model using Excel.
 
-
+In the project I have compared two categorical variables i.e, Industrials and Healthcare with the total revenue(quantitative variable) during year 3.
+If i have summarize quickly, for Measure of Centre, the mean for healthcare is higher than that of industrials. However, the median for industrials is higher than healthcare. Also, for Measure of spread part, quickly comparing using standard deviation suggest that, it is higher for healthcare which inturn shows higher spread. Also, shape of data of both suggests a right skewed shape on histogram.
